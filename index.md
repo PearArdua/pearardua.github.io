@@ -9,4 +9,4 @@ I'm also an avid gamer and enjoy playing all kinds of games, from board games to
 I made this site for my CTI-110 class at FTCC.
 
 I'm excited to be exploring web development and to start a new journey in this field. I'm eager to learn and grow, and I'm confident that I can create great things.
-![Image of a desktop computer](E:\CTI 110\computer.jpg)
+![Image of a desktop computer](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdesktop-computer&psig=AOvVaw3MnP8VKAww5XoxqS88G2Ok&ust=1670438948820000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICIspPU5fsCFQAAAAAdAAAAABAF)
