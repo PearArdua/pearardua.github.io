@@ -10,4 +10,4 @@ I made this site for my CTI-110 class at FTCC.
 
 I'm excited to be exploring web development and to start a new journey in this field. I'm eager to learn and grow, and I'm confident that I can create great things.
 
-[link](https://pearardua.github.io/page2.md)
+
