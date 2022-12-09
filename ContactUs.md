@@ -10,7 +10,7 @@ Welcome Arson in the Park fans! Want to get in touch with us? We'd love to hear 
 ## Get in Touch
 
 <form>
-  <lable>Name:</label>
+  <label>Name:</label>
   <input type="text" name="name" required>
   <br>
   <label>Email:</label>
@@ -23,7 +23,7 @@ Welcome Arson in the Park fans! Want to get in touch with us? We'd love to hear 
   <textarea name="message" rows="5" cols="30"></textarea>
   <br>
   <input type="submit" value="Submit">
-</form>
+
 <br>
 <br>
 Psst, don't forget to check out our latest single "It's Not an Emo Song!" if you haven't already. We promise it's not like all those other bands.
