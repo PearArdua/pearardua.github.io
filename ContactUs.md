@@ -21,6 +21,6 @@ Welcome Arson in the Park fans! Want to get in touch with us? We'd love to hear 
 <input type="text" name="message" required>
 <br>
 <input type="submit" value="Submit">
-
-
+<br>
+<br>
 Psst, don't forget to check out our latest single "It's Not an Emo Song!" if you haven't already. We promise it's not like all those other bands.
