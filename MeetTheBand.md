@@ -9,6 +9,6 @@
 
 | Band | Members |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://i.postimg.cc/RCjLQhR8/Untitled-design.png"  width="192" height="288">   | Georgia is the lead singer and guitarist for Arson in the Park. She has a powerful voice and loves to shred on her guitar.         |
-| <img src="https://i.postimg.cc/4N6V65n7/Untitled-design-1.png"  width="192" height="288"> | Emma is the bassist for Arson in the Park. She has a unique style and her infectious grooves make her an integral part of the band.|
+| <img src="https://i.postimg.cc/RCjLQhR8/Untitled-design.png"  width="192" height="260">   | Georgia is the lead singer and guitarist for Arson in the Park. She has a powerful voice and loves to shred on her guitar.         |
+| <img src="https://i.postimg.cc/4N6V65n7/Untitled-design-1.png"  width="192" height="260"> | Emma is the bassist for Arson in the Park. She has a unique style and her infectious grooves make her an integral part of the band.|
 
