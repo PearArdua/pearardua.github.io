@@ -18,7 +18,7 @@ Welcome Arson in the Park fans! Want to get in touch with us? We'd love to hear 
 <input type="tel" name="phone">
 <br>
 <label>Message:</label>
-<textarea name="message" rows="5" cols="30"></textarea>
+<input type="text" name="message" required>
 <br>
 <input type="submit" value="Submit">
 
