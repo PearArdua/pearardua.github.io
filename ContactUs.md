@@ -9,23 +9,18 @@
 Welcome Arson in the Park fans! Want to get in touch with us? We'd love to hear from you! Fill out the contact form below and we'll get back to you ASAP.
 ## Get in Touch
 
-
-<h2>Get in Touch</h2>
-<form action="#">
-    <label>Name:</label>
-    <input type="text" name="name" required>
-    <br>
-    <label>Email:</label>
-    <input type="email" name="email" required>
-    <br>
-    <label>Phone:</label>
-    <input type="tel" name="phone">
-    <br>
-    <label>Message:</label>
-    <textarea name="message" rows="5" cols="30"></textarea>
-    <br>
-    <input type="submit" value="Submit">
-</form>
+<input type="text" name="name" required>
+<br>
+<label>Email:</label>
+<input type="email" name="email" required>
+<br>
+<label>Phone:</label>
+<input type="tel" name="phone">
+<br>
+<label>Message:</label>
+<textarea name="message" rows="5" cols="30"></textarea>
+<br>
+<input type="submit" value="Submit">
 
 
 Psst, don't forget to check out our latest single "It's Not an Emo Song!" if you haven't already. We promise it's not like all those other bands.
