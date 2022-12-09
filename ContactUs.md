@@ -9,7 +9,7 @@
 Welcome Arson in the Park fans! Want to get in touch with us? We'd love to hear from you! Fill out the contact form below and we'll get back to you ASAP.
 ## Get in Touch
 
-|Contact|Us|
+|Contact|Form|
 |-|-|
 |<lable>Name:</label>|<input type="text" name="name" required>|
 |<label>Email:</label>|<input type="email" name="email" required>|
